@@ -1,0 +1,16 @@
+{
+  "name": "finalpay",
+  "version": "1.0.0",
+  "description": "payment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saatvik",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
